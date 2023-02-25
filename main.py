@@ -14,5 +14,9 @@ print('hello','end',87,False) # hello end 87 False
 # Variables
 hello = "Hello"
 saddan = "Saddan"
-
 print(hello,saddan) # Hello Saddan
+hello_saddan= 'Hello Saddan' #in python use underscore to separate words instead of camel case
+
+# Input
+input('What is your name? ') # What is your name? # user input
+name = input('What is your name? ') # What is your name? # user input
